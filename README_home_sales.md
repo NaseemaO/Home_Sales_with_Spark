@@ -21,14 +21,14 @@ Queries for Analysis #1, #2 and #3 were run in PySpark DataFrame Temporary Table
 Query for Analysis #4 was run in each of the 3 different Temporary Tables for run time comparisons.
 
     1. The average price for a four-bedroom house sold for each year is displayed in the image below. 
-<img src="Images\4bedrooms.png" alt="Avg_Price_Four_Bedroom_House" width="250" height="200">
+<img src="\Images\4bedrooms.png" alt="Avg_Price_Four_Bedroom_House" width="250" height="200">
 
     2. The average price of a home for each year it was built that has three bedrooms and three bathrooms is displayed in the image below.  
-<img src="Images\3BB.png" alt="Avg_Price_3Bedrooms_3Bathrooms" width="250" height="300">
+<img src="\Images\3BB.png" alt="Avg_Price_3Bedrooms_3Bathrooms" width="250" height="300">
 
     3. The average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal 
     to 2,000 square feet is displayed in image below. 
-<img src="Images\3BB2F.png" alt="Avg_Price_3Bedrooms_3Bathrooms_2Floors" width="250" height="300">
+<img src="\Images\3BB2F.png" alt="Avg_Price_3Bedrooms_3Bathrooms_2Floors" width="250" height="300">
 
     4. Query: the "view" rating for homes costing more than or equal to $350,000
 
@@ -38,13 +38,13 @@ Query for Analysis #4 was run in each of the 3 different Temporary Tables for ru
 
 Temporary Table: DataFrame
 
-<img src="Images\df_query_run_time.png" alt="Temp_Table_DataFrame_Query_Run_Time" width="1000" height="600">
+<img src="\Images\Df_query_run_time.png" alt="Temp_Table_DataFrame_Query_Run_Time" width="1000" height="600">
 
 
 
 Temporary Table: Cache DataFrame
 
-<img src="Images\cache_query_run_time.png" alt="Temp_Table_Cache_DataFrame_Query_Run_Time" width="1000" height="600">
+<img src="Images\cache_query_run_time.PNG" alt="Temp_Table_Cache_DataFrame_Query_Run_Time" width="1000" height="600">
 
 
 
